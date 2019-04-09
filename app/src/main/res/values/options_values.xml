@@ -7,6 +7,7 @@
         <item>@string/developer_options_env_offworld</item>
         <item>@string/developer_options_env_underwater</item>
         <item>@string/developer_options_env_winter</item>
+        <item>@string/developer_options_env_meadow</item>
     </string-array>
 
     <string-array name="developer_options_environments_values" translatable="false">
@@ -15,6 +16,7 @@
         <item>offworld</item>
         <item>underwater</item>
         <item>winter</item>
+        <item>meadow</item>
     </string-array>
 
     <array name="developer_options_environments_images" translatable="false">
@@ -23,6 +25,7 @@
         <item>@drawable/environment_offworld</item>
         <item>@drawable/environment_underwater</item>
         <item>@drawable/environment_winter</item>
+        <item>@drawable/environment_meadow</item>
     </array>
 
     <!-- Pointer Options -->
